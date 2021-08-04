@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @YoshihiroZ8
+- 👋 Hi, I’m @YoshihiroZ8, can juz call me hiro
 - 👀 I’m interested in Software & Web development
 - 🌱 I’m currently learning Web development for increasing my coding skill
 - 💞️ I’m looking to collaborate on ...
